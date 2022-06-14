@@ -19,7 +19,6 @@ body {
 	display:  flex;
 	justify-content: center;
 	align-items: center;
-
 }
 .container-logosito {
 	display: flex;
@@ -34,7 +33,6 @@ body {
 	border-radius: 10px;
 	border: 2px #580000 solid;
 }
-
 .immagine{
 	width: 20vw;
 	height: 30vw;
@@ -132,4 +130,23 @@ text-align: center;
 .documentazione{
 	text-align: center;
 	padding: 3rem;
+}
+.bodydoc{
+	background-color: #fff7e6
+}
+.valutazione{
+	width: 18vw;
+	height: 33vw;
+}
+.risultati {
+	padding: 2rem;
+}
+.valu{
+	width: 25vw;
+	height: 20vw;
+}
+.google{
+	width: 85vw;
+	height: 35vw;
+	padding: 1rem;
 }
